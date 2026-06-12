@@ -1,0 +1,76 @@
+test/commands/config-profile.test.ts
+  s_91f95fe2c86b99::t_420d1e0b53cd32 83-93
+  s_91f95fe2c86b99::t_dfbb5026280a20 511-535
+test/commands/config.test.ts
+  s_91f95fe2c86b99::t_06dbe4dadae17f 235-238,247
+  s_91f95fe2c86b99::t_3f765f89e9a686 274
+docs/workflows.md
+  s_91f95fe2c86b99::t_063d1a16c4f59c 48,53
+CHANGELOG.md
+  s_91f95fe2c86b99::t_bf5399af25ec9e 85
+test/core/migration.test.ts
+  s_91f95fe2c86b99::t_74027d7fbfff61 138-162
+src/core/workspace/legacy-state.ts
+  s_91f95fe2c86b99::t_968dfb78943b80 76
+docs/getting-started.md
+  s_91f95fe2c86b99::t_5792edc4e32727 15,21
+src/core/profiles.ts
+  s_91f95fe2c86b99::t_208474bd34b0a7 40,50-52
+src/core/global-config.ts
+  s_91f95fe2c86b99::t_0f0c35c5daa9cf 11
+AGENTS.md
+  s_91f95fe2c86b99::t_9efb04d9ab9e18 1-60
+test/core/global-config.test.ts
+  s_91f95fe2c86b99::t_c1a177c724907d 290-304
+src/core/completions/command-registry.ts
+  s_91f95fe2c86b99::t_b42fd7fc89b8b1 22,24
+docs/migration-guide.md
+  s_91f95fe2c86b99::t_3de661c41e6c49 88
+  s_91f95fe2c86b99::t_73b6ac6ccde9fd 292
+openspec/specs/cli-config/spec.md
+  s_91f95fe2c86b99::t_d7858da39ecfc1 179
+docs/commands.md
+  s_91f95fe2c86b99::t_17e42b753c201c 30
+  s_91f95fe2c86b99::t_2fc7de05aeb584 19
+src/core/workspace/foundation.ts
+  s_91f95fe2c86b99::t_9c5876160a8d1c 65
+  s_91f95fe2c86b99::t_57b6eabe91b320 195
+docs/cli.md
+  s_91f95fe2c86b99::t_682f0ab25d40aa 106
+  s_91f95fe2c86b99::t_44a1e441d69006 1192-1194
+src/commands/config.ts
+  s_91f95fe2c86b99::t_12f7e8668b3ec6 552
+  s_91f95fe2c86b99::t_444b3232274491 127-130
+  s_91f95fe2c86b99::t_3f193eee2ee840 325-326,534-543,545
+test/core/init.test.ts
+  s_91f95fe2c86b99::t_9a1a41e8936533 539-555
+src/core/migration.ts
+  s_91f95fe2c86b99::t_e995a60382832e 9,12
+  s_91f95fe2c86b99::t_f0303ad9372ed2 87-88,122-135,141
+src/core/config-schema.ts
+  s_91f95fe2c86b99::t_289b7bc46da646 14
+src/cli/index.ts
+  s_91f95fe2c86b99::t_43e40e4b81953e 121
+test/core/profiles.test.ts
+  s_91f95fe2c86b99::t_10aac55e38873e 47-56
+src/core/init.ts
+  s_91f95fe2c86b99::t_94660eb78d4242 185,189
+docs/supported-tools.md
+  s_91f95fe2c86b99::t_9676a6d5c27fd5 85,87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.1.1443",
+  "base_commit_sha": "e7a1f6897eaf306964874987275692aca15524fb",
+  "prompts": {},
+  "sessions": {
+    "s_91f95fe2c86b99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14681a102ffeNNcH3ak3qPrxfX",
+        "model": "glm-5.1"
+      },
+      "human_author": "gcw_xsdtlYdI <gcw_xsdtlYdI@noreply.gitcode.com>"
+    }
+  }
+}
